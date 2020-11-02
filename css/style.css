@@ -15,7 +15,7 @@
 
 body {
   font: 9px "open sans", Arial, sans-serif;
-  background: rgb(97, 56, 56);
+  background:#94D4FF;
 }
 
 ul.navbar {
@@ -28,6 +28,7 @@ ul.navbar li {
 	float: left;
 	margin: 0;
 	position: relative;
+  list-style-type: none;
 }
 
 ul.navbar li a {
